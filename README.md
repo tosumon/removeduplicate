@@ -5,7 +5,7 @@ Three implementation of removing duplicate from an integer array
 
 com.test.DeDup is the main class for this project. We can run this main class directly.
 
-Or We can run that test class DeDupTest from test package for testing DeDup class functionality.
+Or We can run test class DeDupTest from test package for testing DeDup class functionality.
 
 
 # DeDup class has following three functions:
